@@ -6,9 +6,7 @@ IPSN is known for its [Microsoft Indoor Localization Competition](https://www.mi
 
 The IPSN conference has a history of RF localization which predates the long-lasting Localization competition. At IPSN 2007, the _IPSN Extreme Sensing_ person counting competition was held.  In this competition, competitors had to count line crossings, and the most accurate count of crossings won. 
 
-![Competitors and organizers of the 2007 Extreme Sensing Competition](img_0438_sm.png)
-
-![A sensor at the Extreme Sensing Competition in 2007](img_0386_sm.png)
+![Competitors and organizers of the 2007 Extreme Sensing Competition](img_0438_sm.png) ![A sensor at the Extreme Sensing Competition in 2007](img_0386_sm.png)
 
 Although many teams used infrared sensors, an MIT team used RF sensors and won.  The accuracy and reliability of RF sensing at the Extreme Sensing competition was one of the inspirations for the development of RF-based device-free localization.  Thus there is no better place than at IPSN 2019 to run a DFL competition.  Further, there are many (at least 100) papers published in DFL each year, but very little community-generated data to use in comparative evaluation of DFL systems.  We hope this competition will challenge research groups to do their best to advance DFL and to help direct future research directions.  
 
