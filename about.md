@@ -4,8 +4,9 @@ We will hold the first Device-Free Localization Competition at [CPS-IoT Week 201
 
 IPSN is known for its localization competition, in which a person's device must be located based on signals it sends or receives from the local wireless infrastructure.  In contrast, in this competition, participating teams must locate a person who is not carrying any physical or wireless device.  Instead, teams must use infrastructure to send and receive wireless signals.  By way of changing the radio wave propagation channel between the devices, the person changes the signals received.  The team must locate and track the person based on these changes.  
 
-https://www.cs.virginia.edu/~whitehouse/ipsn07competition/photos/img_0438.jpg
-https://www.cs.virginia.edu/~whitehouse/ipsn07competition/photos/img_0386.jpg
+[Competitors and organizers of the 2007 Extreme Sensing Competition](https://www.cs.virginia.edu/~whitehouse/ipsn07competition/photos/img_0438.jpg)
+[A sensor at the Extreme Sensing Competition in 2007](https://www.cs.virginia.edu/~whitehouse/ipsn07competition/photos/img_0386.jpg)
+
 The IPSN conference has a history of RF localization which predates the long-lasting Localization competition. At IPSN 2007, the ``IPSN Extreme Sensing'' person counting competition was held.  In this competition, competitors had to count line crossings, and the most accurate count of crossings won. Although many teams used infrared sensors, an MIT team used RF sensors and won.  The accuracy and reliability of RF sensing at the Extreme Sensing competition was one of the inspirations for the development of RF-based device-free localization.  Thus there is no better place than at IPSN 2019 to run a DFL competition.  Further, there are many (at least 100) papers published in DFL each year, but very little community-generated data to use in comparative evaluation of DFL systems.  We hope this competition will challenge research groups to do their best to advance DFL and to help direct future research directions.  
 
 Any industry, university, or government team may compete.  At least one member of the team must attend and have a CPSWeek registration.
