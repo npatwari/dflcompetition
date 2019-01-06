@@ -1,4 +1,4 @@
-[About](about.html)  .  [Evaluation](evaulation.html)  . [Sign up](signup.html)
+[Call for Contesters](call.html)    |    [About](about.html)    |    [Logistics](evaulation.html)    |    
 
 ## Welcome to GitHub Pages
 
