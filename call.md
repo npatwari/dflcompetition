@@ -43,7 +43,7 @@ Submissions are treated as confidential until the competition. Submissions must 
 Abstracts should be sent as pdf over email to: npatwari@wustl.edu on or before Feb 21st 2019 with the following subject line: 2019 Device-free Localization Competition Submission.
 
 ### Important Dates
-* Submission Deadline: February 21, 2019
+* Abstract Submission Deadline: February 21, 2019
 * Registration Deadline: **March 7, 2019**
 * Final Notification: March 15, 2019
 
