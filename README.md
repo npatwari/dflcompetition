@@ -1,4 +1,4 @@
-[**Call for Contesters**](call.html) | [**About**](about.html) | [**Logistics**](evaulation.html) | [**Committee**](committee.html) 
+[**Home**](index.html) | [**Call for Contesters**](call.html) | [**About**](about.html) | [**Logistics**](logistics.html) | [**Committee**](committee.html) 
 
 ## Welcome to the Device-Free Localization Competition
 
