@@ -1,42 +1,16 @@
 [**Call for Contesters**](call.html) | [**About**](about.html) | [**Logistics**](evaulation.html) | [**Committee**](committee.html) 
------------------------- | ---------- | ---------- | ---------- 
 
-## Welcome to GitHub Pages
+## Welcome to the Device-Free Localization Competition
 
-You can use the [editor on GitHub](https://github.com/npatwari/dflcompetition/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are happy to announce the Device-Free Localization (DFL) Competition at CPS-IoT Week 2019!  The competition will bring together top researchers from around the world to meet in Montréal, Québec, during CPS-IoT Week, 15-18 April 2019, and determine which group has the most accurate DFL system.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We hope you will [join as a contestor](call.html) and test your device-free localization software and hardware system against those of the other competitors.  Joining the competition first involves registering your team by submitting a two-page abstract about your team and system.  The [organizing committee](committee.html) will select participating teams by 15 March 2019.  If selected, you and your team will attend CPS-IoT Week 2019 and set up and calibrate your system prior to evaluation day.  All systems are evaluated as described on the [Logistics](evaluation.html) page, and the two teams with the lowest tracking error in each of two categories will win the competition.  Awardees will receive generous prizes from our sponsor, [Bosch](https://www.bosch.com/).
 
-### Markdown
+### Sponsor
+| The Device-Free Localization Competition is generously sponsored by 
+![Bosch](bosch-logo.png) |
 
-[Test](about.html)
+### Important Dates
+* Registration Deadline: **March 7, 2019**
+* Final Notification: March 15, 2019
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/npatwari/dflcompetition/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
