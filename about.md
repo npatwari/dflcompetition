@@ -1,3 +1,5 @@
+[**Home**](index.html) | [**Call for Contesters**](call.html) | [**About**](about.html) | [**Logistics**](logistics.html) | [**Committee**](committee.html) 
+
 ## About the Competition
 
 We will hold the first Device-Free Localization Competition at [CPS-IoT Week 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/).  Join us in Montreal, 15-18 April 2019 for the competition!  You can participate as a competitor, or as an observer.  We will determine winners during the competition and announce the winners during CPS-IoT Week.
