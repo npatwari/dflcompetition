@@ -1,3 +1,5 @@
+[**Home**](index.html) | [**Call for Contesters**](call.html) | [**About**](about.html) | [**Logistics**](logistics.html) | [**Committee**](committee.html) 
+
 ## Evaluation Criteria
 
 For both categories of teams, the evaluation period will proceed as follows.  At the start of the evaluation period, the deployment area will be empty of people.  At a time unknown to the teams, a single person will enter into the deployment area.  The person will walk through the deployment area while recording his or her ground truth coordinates.  At a later time, the person will exit the deployment area.  
