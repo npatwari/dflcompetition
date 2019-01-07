@@ -1,4 +1,4 @@
-| [**Call for Contesters**](call.html) | [**About**](about.html) | [**Logistics**](evaulation.html) | [**Committee**](committee.html) |
+[**Call for Contesters**](call.html) | [**About**](about.html) | [**Logistics**](evaulation.html) | [**Committee**](committee.html) 
 
 ## Welcome to GitHub Pages
 
