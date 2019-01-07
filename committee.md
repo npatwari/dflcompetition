@@ -1,3 +1,5 @@
+[**Home**](index.html) | [**Call for Contesters**](call.html) | [**About**](about.html) | [**Logistics**](logistics.html) | [**Committee**](committee.html) 
+
 ## Organizing Committee
 
 DFL Competition Committee
