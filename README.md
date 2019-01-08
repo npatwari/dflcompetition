@@ -1,5 +1,3 @@
-[**Home**](index.html) | [**Call for Contesters**](call.html) | [**About**](about.html) | [**Logistics**](logistics.html) | [**Committee**](committee.html) 
-
 ## Welcome to the Device-Free Localization Competition
 
 We are happy to announce the Device-Free Localization (DFL) Competition at CPS-IoT Week 2019!  The competition will bring together top researchers from around the world to meet in Montréal, Québec, during CPS-IoT Week, 15-18 April 2019, and determine which group has the most accurate DFL system.  
