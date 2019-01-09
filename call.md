@@ -34,7 +34,7 @@ Any industry, university, or government team may compete.  At least one member o
 
 ### Submission
 
-Contesters must submit an 2-page abstract to be considered for participation as a team.  The abstract must briefly describe the approach and the deployment requirements.  The abstract must be submitted by the registration deadline.  
+Contesters must submit an 2-page abstract to be considered for participation as a team.  The abstract must explicitely indicate the intended category of compeition and briefly describe the approach and the deployment requirements. 
 
 Submissions are treated as confidential until the competition. Submissions must be at most two (2) pages, including figures, tables, and references. Submission should follow the exact same format as regular, full IPSN 2019 papers. Abstracts should include the names and affiliations of all authors. 
 
