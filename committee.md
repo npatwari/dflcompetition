@@ -1,7 +1,7 @@
 ## Organizing Committee
 ![Vivek Jain](vivek_jain.jpg)	| ![Anh Luong](luong.jpg)	
-[Vivek Jain](https://www.linkedin.com/in/jainvk/) |
-Lead Expert, Wireless Connectivity, [Bosch Research](http://www.bosch.com/research)
+[Vivek Jain](https://www.linkedin.com/in/jainvk/) |  [Anh Luong](http://www.anhnluong.com/)
+Lead Expert, Wireless Connectivity, [Bosch Research](http://www.bosch.com/research) |Postdoctoral Researcher, [Carnegie Mellon University](https://www.cmu.edu/) 
 
 
 ![Vivek Jain](vivek_jain.jpg)	| [Vivek Jain](https://www.linkedin.com/in/jainvk/), Lead Expert, Wireless Connectivity, [Bosch Research](http://www.bosch.com/research) 
