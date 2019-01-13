@@ -38,10 +38,10 @@ Contesters must submit an 2-page abstract to be considered for participation as 
 
 Submissions are treated as confidential until the competition. Submissions must be at most two (2) pages, including figures, tables, and references. Submission should follow the exact same format as regular, full IPSN 2019 papers. Abstracts should include the names and affiliations of all authors. 
 
-Abstracts should be sent as pdf over email to: npatwari@wustl.edu on or before March 7th 2019 with the following subject line: 2019 Device-free Localization Competition Submission.
+Abstracts should be sent as pdf over email to: npatwari at wustl.edu on or before March 7th 2019 with the following subject line: 2019 Device-free Localization Competition Submission.
 
 ### Important Dates
 * Abstract Submission Deadline: **March 7, 2019**
 * Final Notification: March 15, 2019
 
-
+Note that Abstracts may be submited **before** the deadline, and early submissions will have early notifications.  If you need to be accepted as a team earlier than March 15 for visa reasons, please apply as early as possible.  The committee will make rolling decisions on applying teams.
