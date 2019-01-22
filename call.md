@@ -1,6 +1,6 @@
 ## Call for Contesters
 
-Following on the success of the Microsoft Indoor Localization Competition, and before it, the 2007 IPSN Extreme Sensing Competition, we call for participants in the Device-Free Localization Competition at [CPS-IoT Week 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/).  Although there are hundreds of research papers which use RF measurements from commercial wireless communications devices to perform localization, gesture and activity recognition, vital sign monitoring, and other applications, there is little public information directly comparing the performance of different systems against each other. A competition offers an opportunity to make this direct comparison.  The results can help the research community come to conclusions and discover important new directions for research that will have critical impact.
+Following on the success of the Microsoft Indoor Localization Competition, and before it, the 2007 IPSN Extreme Sensing Competition, we call for participants in the Bosch Device-Free Localization Competition at [CPS-IoT Week 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/).  Although there are hundreds of research papers which use RF measurements from commercial wireless communications devices to perform localization, gesture and activity recognition, vital sign monitoring, and other applications, there is little public information directly comparing the performance of different systems against each other. A competition offers an opportunity to make this direct comparison.  The results can help the research community come to conclusions and discover important new directions for research that will have critical impact.
 
 ### Categories of Competition
 
@@ -30,7 +30,7 @@ The team with lowest penalized tracking error in each category wins first place.
 
 ### Eligibility
 
-Any industry, university, or government team may compete.  At least one member of the team must attend and have a CPSWeek registration.
+Any industry, university, or government team may compete, with the exception that the organizers will not compete.  At least one member of the team must attend and have a CPSWeek registration.
 
 ### Submission
 
