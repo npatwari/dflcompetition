@@ -1,6 +1,6 @@
 ## About the Competition
 
-We will hold the first Device-Free Localization Competition at [CPS-IoT Week 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/).  Join us in Montreal, 15-18 April 2019 for the competition!  You can participate as a competitor, or as an observer.  We will determine winners during the competition and announce the winners during CPS-IoT Week.
+We will hold the first Bosch Device-Free Localization Competition at [CPS-IoT Week 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/).  Join us in Montreal, 15-18 April 2019 for the competition!  You can participate as a competitor, or as an observer.  We will determine winners during the competition and announce the winners during CPS-IoT Week.
 
 IPSN is known for its [Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2018/), in which a person's device must be located based on signals it sends or receives from the local wireless infrastructure.  In contrast, in this competition, participating teams must locate a person who is not carrying any physical or wireless device.  Instead, teams must use infrastructure to send and receive wireless signals.  By way of changing the radio wave propagation channel between the devices, the person changes the signals received.  The team must locate and track the person based on these changes.  
 
@@ -19,7 +19,7 @@ Teams will enter in one of these two categories:
 
 For the Team-deployed Hardware category, each participating team will discuss their spectral needs in their application, and we will assign channels beforehand when possible to avoid interference.
 
-For the Signal Strength Software-Only teams, we will post a [public github RTI project](https://github.com/npatwari/dflcompetition).  We will [adapt the RTI code](https://github.com/npatwari/rti) to make it work for the Signal Strength Software-only category.  In that category, a team modify our software so that they have a system that works ``out of the box''.  Of course, our software could be improved in multiple ways, and modifications and adaptations to the algorithm and its parameters will make its performance improve.
+For the Signal Strength Software-Only teams, we will post a [public github RTI project](https://github.com/npatwari/dflcompetition).  We will [adapt the RTI code](https://github.com/npatwari/rti) to make it work for the Signal Strength Software-only category.  In that category, a team modify our software so that they have a system that works "out of the box".  Of course, our software could be improved in multiple ways, and modifications and adaptations to the algorithm and its parameters will make its performance improve.
 
 ## Video playlist:
 <iframe width="700" height="394" src="https://www.youtube.com/embed/videoseries?list=PLQuDEk4rPDON5Hrf5Zp3Stx7pGibNB7kZ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
